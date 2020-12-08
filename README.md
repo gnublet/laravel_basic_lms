@@ -15,7 +15,8 @@ For courses, we can:
 - Enroll a student in a course.
 
 # Todos
-Authorization and Authentication still needs to be done.
+- Authorization and Authentication still needs to be done.
+- Add more checks when enrolling students
 
 # Setup
 If using docker-compose, simply clone this repo, edit docker-compose.yml as desired, and run
