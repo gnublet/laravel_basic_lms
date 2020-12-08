@@ -14,7 +14,7 @@ For courses, we can:
 - Modify a course
 - Enroll a student in a course.
 
-# Todos:
+# Todos
 Authorization and Authentication still needs to be done.
 
 # Setup
