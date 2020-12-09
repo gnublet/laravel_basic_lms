@@ -22,6 +22,13 @@
 
         @if (count($students) > 0)
         <table class='table'>
+            <thead>
+                <tr>
+                    <td>Email</td>
+                    <td>First Name</td>
+                    <td>Last Name</td>
+                </tr>
+            </thead>
             <tbody>
                 @foreach ($students as $student)
                     <tr>

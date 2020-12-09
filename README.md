@@ -28,3 +28,5 @@ If running directly on an environment, have laravel set up, fill out .env, and r
 ```
 php artisan serve --port=3001
 ```
+
+Then your app should be running at localhost:3001 or something similar.
