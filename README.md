@@ -1,4 +1,5 @@
 # Barebones LMS
+I was given 2 days to do this for an interview process which I ended up getting a job offer from.
 This is a barebones Laravel App for course and student management. 
 
 # Description
@@ -9,7 +10,7 @@ For students, we can:
 
 For courses, we can:
 - Display a list of courses
-- Display a list of sutdents enrolled in each course
+- Display a list of students enrolled in each course
 - Create a course
 - Modify a course
 - Enroll a student in a course.
